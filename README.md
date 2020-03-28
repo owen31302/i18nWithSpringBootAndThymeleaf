@@ -1,0 +1,2 @@
+# i18nWithSpringBootAndThymeleaf
+i18nWithSpringBootAndThymeleaf
